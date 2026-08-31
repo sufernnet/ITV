@@ -58,7 +58,7 @@ TVB翡翠台,http://r.jdshipin.com/62WM7
 ☘️浙江频道,#genre#
 浙江钱江,http://ali-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
 浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-浙江民生,http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
+浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江教科,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
@@ -74,7 +74,7 @@ TVB翡翠台,http://r.jdshipin.com/62WM7
 ☘️安徽频道,#genre#
 安徽导视,http://dspdhls.appcoo.com:8888/live/dspd/index.m3u8
 固镇新闻,https://stream.hrbtv.net/zxpd/sd/live.m3u8
-铜陵新闻综合,https://stream.hrbtv.net/zxpd/sd/live.m3u8
+铜陵新闻综合,https://ls.qingting.fm/live/21303/64k.m3u8
 ☘️福建频道,#genre#
 福建海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8
 三明新闻综合,http://ls.qingting.fm/live/4885.m3u8
@@ -83,7 +83,7 @@ TVB翡翠台,http://r.jdshipin.com/62WM7
 ☘️重庆频道,#genre#
 江津新闻综合,http://222.179.155.21:1935/ch1.m3u8
 铜梁综合,https://stream.hrbtv.net/zxpd/sd/live.m3u8
-荣昌综合,https://stream.hrbtv.net/zxpd/sd/live.m3u8
+荣昌综合,http://183.64.181.25:40023/rongchang01.m3u8
 ☘️四川频道,#genre#
 青川综合,http://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8
 井研综合,https://stream.hrbtv.net/zxpd/sd/live.m3u8
@@ -117,7 +117,7 @@ TVB翡翠台,http://r.jdshipin.com/62WM7
 北京卡酷少儿,http://111.59.139.82:11888/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
 ☘️河北频道,#genre#
 河北农民,https://ls.qingting.fm/live/1650/64k.m3u8
-衡水公共,https://stream.hrbtv.net/zxpd/sd/live.m3u8
+衡水公共,http://ls.qingting.fm/live/2810.m3u8
 河北（4K）,https://event.pull.hebtv.com:443/live/live101.m3u8
 ☘️辽宁频道,#genre#
 辽宁北方,http://dassby.qqff.top:99/live/辽宁北方/index.m3u8
