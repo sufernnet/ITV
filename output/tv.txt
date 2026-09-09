@@ -17,7 +17,7 @@ CCTV-15,http://45.192.97.170:8880/play/16.m3u8
 CCTV-17,http://45.192.97.170:8880/play/17.m3u8
 CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 CHC动作电影,http://120.198.86.186:9901/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
-CGTN（英语新闻）,https://hlspackager.akamaized.net/live/DB/CGTN_ENGLISH/HLS/CGTN_ENGLISH.m3u8
+CGTN（英语新闻）,https://english-livebkali.cgtn.com/live/encgtn.m3u8
 CGTN-Documentary（英语纪录）,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 📡卫视频道,#genre#
 河北卫视,http://113.57.140.161:10081/newlive/live/hls/33/live.m3u8
@@ -110,6 +110,7 @@ TVB翡翠台,http://r.jdshipin.com/GeWKr
 哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild
 哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild
 甘南县综合,https://stream.hrbtv.net/zxpd/sd/live.m3u8
+七台河新闻综合,https://ls.qingting.fm/live/4972/64k.m3u8
 七台河民生社教,https://ls.qingting.fm/live/4972/64k.m3u8
 哈尔滨都市咨询,http://stream.hrbtv.net/zxpd/sd/live.m3u8?zheild
 ☘️湖北频道,#genre#
