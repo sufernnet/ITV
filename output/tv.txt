@@ -14,7 +14,6 @@ CCTV-13,http://45.192.97.170:8880/play/14.m3u8
 CCTV-14,http://45.192.97.170:8880/play/15.m3u8
 CCTV-15,http://45.192.97.170:8880/play/16.m3u8
 CCTV-17,http://45.192.97.170:8880/play/17.m3u8
-CCTV-4K,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1790330400-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-39958976577036c40bd8a15a2c2a4516&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 CGTN（英语新闻）,https://hlspackager.akamaized.net/live/DB/CGTN_ENGLISH/HLS/CGTN_ENGLISH.m3u8
 CGTN-Documentary（英语纪录）,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
@@ -31,18 +30,17 @@ CGTN-Documentary（英语纪录）,https://amg00405-rakutentv-cgtndocumentary-ra
 浙江数码时代,http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed
 浙江休闲台,http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
 中国蓝新闻,http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
-嘉兴新闻综合,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
-平湖民生休闲,http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed
+嘉兴新闻综合,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
 浙江经济生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?
 绍兴电视台公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-浙江 Ⅰ 绍兴综合,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
+浙江 Ⅰ 绍兴综合,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
 ☘️安徽频道,#genre#
 安徽导视,http://dspdhls.appcoo.com:8888/live/dspd/index.m3u8
-固镇新闻,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
+固镇新闻,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
 铜陵新闻综合,https://ls.qingting.fm/live/21303/64k.m3u8
 ☘️福建频道,#genre#
-三明新闻综合,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
-云霄综合,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
+三明新闻综合,http://ls.qingting.fm/live/4885.m3u8
+云霄综合,https://live.zzyxxw.com:2443/live/xwzh.m3u8
 福州广电视台新闻综合频道,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 ☘️重庆频道,#genre#
 江津新闻综合,http://222.179.155.21:1935/ch1.m3u8
@@ -72,14 +70,14 @@ CGTN-Documentary（英语纪录）,https://amg00405-rakutentv-cgtndocumentary-ra
 黑龙江少儿,https://ls.qingting.fm/live/4972/64k.m3u8
 哈尔滨新闻综合,http://stream.hrbtv.net/xwzh/sd/live.m3u8?zheild
 哈尔滨资讯,http://stream.hrbtv.net/zxpd/sd/live.m3u8
-哈尔滨都市资讯,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
+哈尔滨都市资讯,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
 哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8?zheild
 哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild
 哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild
 七台河新闻综合,http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8
-哈尔滨都市咨询,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
+哈尔滨都市咨询,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
 ☘️湖北频道,#genre#
-江夏新闻综合,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
+江夏新闻综合,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
 武汉一台新闻综合,https://ls.qingting.fm/live/20198/64k.m3u8
 🌊港·澳·台,#genre#
 三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
