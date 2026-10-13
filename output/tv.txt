@@ -1,4 +1,4 @@
-# Generated: 2026-10-12T14:34:04.727991
+# Generated: 2026-10-13T00:13:27.566557
 
 📺央视频道,#genre#
 CCTV-1,http://45.192.97.170:8880/play/1.m3u8
@@ -18,7 +18,6 @@ CCTV-14,http://45.192.97.170:8880/play/15.m3u8
 CCTV-15,http://45.192.97.170:8880/play/16.m3u8
 CCTV-16,http://183.11.239.36:808/hls/169/index.m3u8
 CCTV-17,http://45.192.97.170:8880/play/17.m3u8
-CCTV-4K,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1791824400-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-3a6505aa09cfb9f81a9e845c1af5e6d7&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 CCTV-8K,http://192.151.150.154/live/cctv8k.m3u8
 CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 CGTN,https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
@@ -35,7 +34,6 @@ CGTN阿语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LST
 中央电视塔南,https://gcalic.v.myalicdn.com/gc/ztn_1/index.m3u8
 
 📡卫视频道,#genre#
-山西卫视,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 江苏卫视,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 浙江卫视,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
@@ -72,8 +70,6 @@ Discovering China,https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f
 Dongguan Comprehensive News Channel,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 Dragon TV International,https://restream.pdtvhd.com/memfs/0b1b95c9-3543-4af9-9fdb-cf45f1602f17.m3u8
 FZTV3,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
-Good,https://live.streamingfast.net/osmflivech1.m3u8
-Good 2,https://live.streamingfast.net/osmflivech2.m3u8
 Guangdong Satellite TV,https://h5cul1yar48um3t.wcetv.com/hls/gdsatellite.m3u8
 Guangxi Variety & Travel Channel,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 Guangzhou TV,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
@@ -84,6 +80,7 @@ Hebi News Channel [Not 24/7],http://pili-live-hls.hebitv.com/hebi/hebi.m3u8
 Hunan TV,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 Jiangsu Public & News Channel,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 Kangba TV,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
+Lanzhou Comprehensive News Channel,https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8
 Lanzhou Culture & Tourism Channel,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 Nei Monggol TV 2 Mongolian Culture Channel [Not 24/7],https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 Nei Monggol TV [Not 24/7],https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
@@ -92,7 +89,8 @@ Pet Club TV,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 QTV-1,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 QTV-2,http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
 QTV-3,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
-QTV-4,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
+QTV-4,http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
+QTV-6,http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
 RT Arabic,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 RT Balkan,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 RT DE,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
@@ -114,7 +112,8 @@ Xinjiang TV 3,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 Xinjiang TV 8,https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8
 Zhejiang International Channel,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 Zhejiang TV International,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
-上虞3新商都 [Not 24/7],https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
+上虞1新闻综合 [Not 24/7],https://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
+上虞3新商都 [Not 24/7],https://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
 上虞新商都,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 东丰,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 东南卫视,https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8
@@ -171,13 +170,12 @@ Zhejiang TV International,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 柳河,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 桦甸,https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8
 梨园,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
-武进新闻 [Not 24/7],https://live.wjyanghu.com/live/CH1.m3u8
 武进生活 [Not 24/7],https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8
 江津新闻,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 江津经济生活,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 汪清,https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8
 河公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
-河综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
+河综合,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 泰山主峰,https://gcalic.v.myalicdn.com/gc/taishan01_1/index.m3u8
 泰山十八盘,https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8
 泰山南天门,https://gcalic.v.myalicdn.com/gc/hkts07_1/index.m3u8
@@ -211,8 +209,8 @@ Zhejiang TV International,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
 老故事,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 舒兰新闻,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
-萧山生活频道,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
-萧山综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
+萧山生活频道,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
+萧山综合,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 蕭山生活頻道 [Not 24/7],https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 衢江新闻综合,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 象山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
@@ -287,6 +285,9 @@ Zhejiang TV International,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 之江纪录,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 中国蓝新闻,http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
 嘉兴新闻综合,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
+湖州新闻综合,http://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865
+湖州文化娱乐,http://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887
+湖州公共民生,http://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e
 绍兴公共,http://218.13.170.98:9901/tsfile/live/0141_1.m3u8
 东阳影视生活,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 兰溪新闻综合,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
@@ -297,11 +298,11 @@ Zhejiang TV International,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 嵊州综合 [Not 24/7],https://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 新昌新闻综合,https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
 新昌生活,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
-萧山新闻综合,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 萧山生活,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 余杭综合,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
 余杭未来E,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 象山综合,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
+余姚综合,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 余姚新闻综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 余姚姚江文化,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 苍南新闻综合,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
@@ -321,12 +322,12 @@ Zhejiang TV International,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 云和新闻综合,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 庆元新闻综合,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 庆元综合,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8
-缙云新闻综合,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
-缙云综合,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
+缙云新闻综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
+缙云综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8?zzhed?
 遂昌综合,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 松阳综合,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8
 浙江 Ⅰ 绍兴影视,https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8
-浙江 Ⅰ 绍兴综合,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
+浙江 Ⅰ 绍兴综合,http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
 浙江舟山东极岛,https://gcalic.v.myalicdn.com/gc/djd01_1/index.m3u8
 绍兴电视台公共,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 
@@ -337,6 +338,9 @@ Zhejiang TV International,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 黄山新闻综合,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 黄山公共生活,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 祁门综合,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
+宿州新闻综合 [Not 24/7],http://live.ahsz.tv/video/s10001-szzh/index.m3u8
+宿州公共 [Not 24/7],http://live.ahsz.tv/video/s10001-ggpd/index.m3u8
+宿州科教 [Not 24/7],http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
 六安新闻综合,http://218.13.170.98:9901/tsfile/live/0141_1.m3u8
 六安公共,http://218.13.170.98:9901/tsfile/live/0141_1.m3u8
 亳州农村,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
@@ -377,10 +381,10 @@ Zhejiang TV International,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 青川综合,http://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8
 剑阁综合,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 井研综合,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
+仁寿综合,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 叙州新闻综合,http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8?zsicd
 雅安新闻综合,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 名山综合,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
-荥经综合,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 乐至综合,http://175.155.106.72:89/live1/live1.m3u8?zsicd
 乐山大佛全景,https://gcalic.v.myalicdn.com/gc/lsdfgfl_1/index.m3u8
 四川峨眉山云海日出,https://gcalic.v.myalicdn.com/gc/emsarm_1/index.m3u8
@@ -416,7 +420,6 @@ Zhejiang TV International,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 广东民生,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 广东大湾区,https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8
 广州综合,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
-广州新闻,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 广州竞赛,http://8.138.7.223/tv/gzjs.m3u8
 东莞新闻综合,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 东莞生活资讯,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
@@ -431,6 +434,7 @@ Zhejiang TV International,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 海南新闻,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 海南自贸,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 海南文旅,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
+海南少儿,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 
 ☘️北京频道,#genre#
 北京新闻,https://stream2.jlntv.cn/sptv/sd/live.m3u8
@@ -460,7 +464,6 @@ Zhejiang TV International,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 太谷新闻综合,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 平遥新闻综合,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 万荣综合,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
-定襄综合,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 古县综合,http://218.13.170.98:9901/tsfile/live/0141_1.m3u8
 汾西综合,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 
@@ -545,7 +548,5 @@ TVB Plus,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰香港,http://r.jdshipin.com/yDoTN
 华丽翡翠台,http://r.jdshipin.com/thuYX
-无线新闻台,http://r.jdshipin.com/CkuBd
-明珠台,http://r.jdshipin.com/ZQ4kN
 福建漳州醉美沙滩翡翠湾,https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8
 翡翠台,http://r.jdshipin.com/qrfbg
